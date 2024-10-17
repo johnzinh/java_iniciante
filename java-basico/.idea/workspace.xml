@@ -1,0 +1,343 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="29daa63e-5322-42a6-a8c9-e816661ab02b" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/kotlinc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/KotlinJavaRuntime.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java.basico.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Relacionamento_entre_classes/Contatos.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Relacionamento_entre_classes/Endereco.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Relacionamento_entre_classes/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Relacionamento_entre_classes/Telefone.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Relacionamento_entre_classes/exercicio/Agenda.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Relacionamento_entre_classes/exercicio/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/algoritmo/exercicios/Exer02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/algoritmo/exercicios/Exer03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/algoritmo/exercicios/Exer04.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/algoritmo/exercicios/Exer05.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/algoritmo/exercicios/Exer06.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/algoritmo/exercicios/Exer07.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/algoritmo/exercicios/Exer08.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/algoritmo/exercicios/Exer09.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/algoritmo/exercicios/Exer11.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/algoritmo/exercicios/Exer12.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/arrays/matriz/ArrayExemplo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/arrays/matriz/ExeJogoDavelha.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/arrays/matriz/ExeM01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/arrays/matriz/ExeM02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/arrays/matriz/ExeM03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/arrays/matriz/ExeM04.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/arrays/matriz/Execi05.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/arrays/matriz/Execi09.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/arrays/matriz/Exerci01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/arrays/matriz/Exerci02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/arrays/matriz/Exerci03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/arrays/matriz/Exerci06.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/arrays/matriz/Exerci07.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/arrays/matriz/Exerci08.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/arrays/matriz/MatrizExemplo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/arrays/matriz/exerci04.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/breakContinue/BreakExemplo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/condicionais/exercicios/Exer01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/condicionais/exercicios/Exer02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/condicionais/exercicios/Exer04.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/condicionais/exercicios/Exer05.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/condicionais/exercicios/Exer06.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/condicionais/exercicios/Exer07.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/condicionais/exercicios/Exer08.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/condicionais/exercicios/Exer09.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/condicionais/exercicios/Exer10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/condicionais/exercicios/IfElse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/condicionais/exercicios/SwitchCase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/construtores/Carro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/construtores/Carro2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/construtores/TesteCarro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/construtores/TesteCarro2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exercicio_construtores_encapsulamento/Aluno3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exercicio_construtores_encapsulamento/ContaCorrente3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exercicio_construtores_encapsulamento/JogoDaVelha3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exercicio_construtores_encapsulamento/TesteAluno.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exercicio_construtores_encapsulamento/TesteConta.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exercicio_construtores_encapsulamento/TesteJogoDaVelha3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exercicio_construtores_encapsulamento/TesteLampada.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exercicio_construtores_encapsulamento/lampada3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/loops/exercicios/Exerc01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/loops/exercicios/Exerc02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/loops/exercicios/Exerc03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/metodos/Carro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/metodos/TesteCarro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/metodos/exercicios/Aluno.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/metodos/exercicios/ContaCorrente.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/metodos/exercicios/Exer01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/metodos/exercicios/Exer02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/metodos/exercicios/Exer03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/metodos/exercicios/Exer04.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/metodos/exercicios/JogoDaVelha.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/metodos/exercicios/Lampada.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/modificador_static/Calculadora.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/modificador_static/Contador.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/modificador_static/TesteCalculadora.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/modificador_static/TesteContador.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/modificadores_encapsulamento_gettes_setters/Jato.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/modificadores_encapsulamento_gettes_setters/Moto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/modificadores_encapsulamento_gettes_setters/TesteJato.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/modificadores_encapsulamento_gettes_setters/TesteMoto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/orientacao/objeto/ContaCorrente.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/orientacao/objeto/Contato.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/orientacao/objeto/Exer01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/orientacao/objeto/Exer02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/orientacao/objeto/Exer03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/orientacao/objeto/Exer04.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/orientacao/objeto/Lampada.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/orientacao/objeto/Livro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/recusividade/Fatorial.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/recusividade/TesteFatorial.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/recusividade/exercicio/Fibonacci.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/recusividade/exercicio/Somatorio.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/recusividade/exercicio/TesteFibonacci.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sobrecarga_exemplo/Calculadora.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sobrecarga_exemplo/TesteCalculadora.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Kotlin Class" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
+  <component name="ProjectId" id="2hNjYa7Vg0pkDhRB3qIuWg6LAPE" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.ArrayExemplo.executor&quot;: &quot;Run&quot;,
+    &quot;Application.BreakExemplo.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ConstrutorTesteCarro.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ExeJogoDavelha.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.ExeM01.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.ExeM02.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ExeM03.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ExeM04.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Execi05.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Execi09.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Execi10.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Execic10.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Exer01.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.Exer02.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Exer03.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Exer04.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Exer05.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Exer06.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Exer07.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Exer08.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.Exer09.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Exer10.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Exer11.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Exer12.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Exerc01.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Exerc02.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Exerc03.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Exerc04.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Exerci01.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Exerci02.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Exerci03.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Exerci06.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Exerci07.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Exerci08.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Exercic10.executor&quot;: &quot;Run&quot;,
+    &quot;Application.IfElse.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Somatorio.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.SwitchCase.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TesteAluno.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TesteCalculadora.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TesteCarro.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TesteCarro2.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.TesteConta.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TesteContador.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.TesteContatos.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TesteExercicio.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TesteFatorial.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.TesteFibonacci.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.TesteJato.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TesteJogoDaVelha3.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TesteMoto.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.exer03.executor&quot;: &quot;Run&quot;,
+    &quot;Application.exerci04.executor&quot;: &quot;Run&quot;,
+    &quot;Application.metodos.exercicios.Exer01.executor&quot;: &quot;Run&quot;,
+    &quot;Application.metodos.exercicios.Exer02.executor&quot;: &quot;Run&quot;,
+    &quot;Application.metodos.exercicios.Exer03.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;copyright&quot;
+  }
+}</component>
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Relacionamento_entre_classes.Main" />
+      <module name="java-basico" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Relacionamento_entre_classes.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Somatorio" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="recusividade.exercicio.Somatorio" />
+      <module name="java-basico" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="recusividade.exercicio.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TesteCalculadora" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="modificador_static.TesteCalculadora" />
+      <module name="java-basico" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="modificador_static.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TesteFatorial" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="recusividade.TesteFatorial" />
+      <module name="java-basico" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="recusividade.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TesteFibonacci" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="recusividade.exercicio.TesteFibonacci" />
+      <module name="java-basico" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="recusividade.exercicio.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.TesteFibonacci" />
+        <item itemvalue="Application.Somatorio" />
+        <item itemvalue="Application.TesteFatorial" />
+        <item itemvalue="Application.TesteCalculadora" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="29daa63e-5322-42a6-a8c9-e816661ab02b" name="Changes" comment="" />
+      <created>1717441477719</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1717441477719</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/condicionais/exercicios/SwitchCase.java</url>
+          <line>39</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/arrays/matriz/ExeM01.java</url>
+          <line>24</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/arrays/matriz/ExeM01.java</url>
+          <line>33</line>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/arrays/matriz/ExeM01.java</url>
+          <line>36</line>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/recusividade/exercicio/Somatorio.java</url>
+          <line>10</line>
+          <properties class="recusividade.exercicio.Somatorio" method="somatorio">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <pin-to-top-manager>
+      <pinned-members>
+        <PinnedItemInfo parentTag="metodos.Carro" memberName="capCombustivel" />
+        <PinnedItemInfo parentTag="java.util.regex.Matcher" memberName="groups" />
+      </pinned-members>
+    </pin-to-top-manager>
+  </component>
+</project>

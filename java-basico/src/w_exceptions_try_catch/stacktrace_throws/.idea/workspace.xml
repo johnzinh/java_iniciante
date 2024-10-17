@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7284d7ad-7a98-4210-9465-a05abd660bc6" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../../.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../.idea/kotlinc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../.idea/libraries/KotlinJavaRuntime.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java-basico.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../c_loops/breakContinue/BreakExemplo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../conversa_de_objetos_casting/Aluno.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../conversa_de_objetos_casting/Pessoa.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../conversa_de_objetos_casting/Professor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../conversa_de_objetos_casting/Teste.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../conversa_de_objetos_casting/Teste2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../f_recusividade/TesteFatorial.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../f_sobrecarga_exemplo/Calculadora.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../f_sobrecarga_exemplo/TesteCalculadora.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../g_modificador_static/Calculadora.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../g_modificador_static/Contador.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../g_modificador_static/TesteCalculadora.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../g_modificador_static/TesteContador.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../i_interface/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../i_interface/AnimalDomesticado.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../i_interface/AnimalEstimacao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../i_interface/Ave.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../i_interface/Cachorro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../i_interface/Cavalo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../i_interface/Constantes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../i_interface/Gato.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../i_interface/Mamifero.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../i_interface/Papagaio.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../i_interface/Teste.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../i_interface_heranca_banco_de_dados/BancoDados.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../i_interface_heranca_banco_de_dados/BancoMySQL.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../i_interface_heranca_banco_de_dados/SqlDCL.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../i_interface_heranca_banco_de_dados/SqlDDl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../i_interface_heranca_banco_de_dados/SqlDMl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../i_interface_heranca_banco_de_dados/exercicio/Cilindro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../i_interface_heranca_banco_de_dados/exercicio/Circulo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../i_interface_heranca_banco_de_dados/exercicio/Cubo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../i_interface_heranca_banco_de_dados/exercicio/DimencaoSuperficial.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../i_interface_heranca_banco_de_dados/exercicio/DimencaoVolumetrica.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../i_interface_heranca_banco_de_dados/exercicio/Figura2D.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../i_interface_heranca_banco_de_dados/exercicio/Figura3D.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../i_interface_heranca_banco_de_dados/exercicio/FiguraGeometrica.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../i_interface_heranca_banco_de_dados/exercicio/Piramide.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../i_interface_heranca_banco_de_dados/exercicio/Quadrado.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../i_interface_heranca_banco_de_dados/exercicio/Teste.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../i_interface_heranca_banco_de_dados/exercicio/Triangulo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../l_polimorfismo/Aluno.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../l_polimorfismo/Pessoa.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../l_polimorfismo/Professor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../l_polimorfismo/Teste.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../w_classe_object/Aluno.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../w_classe_object/Teste.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Multiplos_Catch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MultiploscatchSimilares.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Teste.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Teste_Pegadinha.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Teste_finally.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../criandoExceptions/CriandoExceptions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../criandoExceptions/CriandoExceptionsEX2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../criandoExceptions/DivisaoNaoExata.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exercicio/Agenda.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exercicio/AgendaCheiaException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exercicio/Contato.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exercicio/ContatoNaoExisteException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exercicio/Teste.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UsandoException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UsandoThrows.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 3
+}]]></component>
+  <component name="ProjectId" id="2nSOP3cg6VxhHJjoo0sCG3eSnfI" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="sortKey" value="BY_TIME_ASCENDING" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "D:/Developer/java_conceitos_basicos/java-basico/src/w_exceptions_try_catch/exercicio/Agenda.java"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7284d7ad-7a98-4210-9465-a05abd660bc6" name="Changes" comment="" />
+      <created>1728962982360</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1728962982360</updated>
+    </task>
+    <servers />
+  </component>
+</project>
